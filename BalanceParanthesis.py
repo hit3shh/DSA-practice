@@ -20,8 +20,6 @@ def is_balanced(expression):
 
     return len(stack) == 0
 
-
-# Example
 expr = "{[()()]}"
 print(is_balanced(expr))
 
