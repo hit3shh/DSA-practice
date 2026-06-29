@@ -1,0 +1,5 @@
+'''
+implement stack using array:
+
+'''
+
